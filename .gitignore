@@ -1,0 +1,13 @@
+# Executables / Binary targets
+/st
+
+# Object files and temporary build artifacts
+*.o
+*.tar.gz
+
+# Dynamically generated header files
+config.h
+
+# Debug / Temporary files
+*.gch
+.DS_Store
